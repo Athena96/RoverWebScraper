@@ -1,0 +1,27 @@
+{
+    "url_queries": {
+        "start_date": "01/02/2099",
+        "end_date": "01/04/2099",
+        "frequency": "onetime",
+        "large_dogs": true,
+        "location": "Seattle, WA 98125, USA",
+        "medium_dogs": false,
+        "pet_type": "dog",
+        "special_needs": false,
+        "oral_medication": false
+    },
+
+    "custom_queries": {
+        "my_lat": 123.456789,
+        "my_lon": -987.654321,
+        "max_price": 127,
+        "max_distance_from_me": 15,
+        "min_reviews": 12,
+        "min_rating_avg": 4.5,
+        "min_years_experience": 2,
+        "min_repeat_client_count": 5
+    },
+    "script_settings": {
+        "pages_to_search": 2
+    }
+}
